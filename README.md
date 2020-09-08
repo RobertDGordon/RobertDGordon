@@ -1,16 +1,19 @@
-### Hi there 👋
+# Robert D. Gordon
+**Full Stack Web Developer**
 
-<!--
-**RobertDGordon/RobertDGordon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Portland, OR
 
-Here are some ideas to get you started:
+GordonRobertD@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[rob-gordon.com](https://rob-gordon.com) | [Github](https://github.com/RobertDGordon) | [LinkedIn](https://linkedin.com/in/robert-d-gordon/)
+
+## SKILLS:
+Front End | Back End | And more...
+------------ | ------------- | ------------
+• React/React Native | • NodeJS | • SQL
+• JavaScript | • GraphQL/URQL | • Flask
+• Python | • Apollo | • Prisma
+• HTML/CSS | • Postgres | • Docker
+
+## RESUME:
+[Gist](https://gist.github.com/RobertDGordon/280cd750eb03a28797bf3fcffb400bab)
