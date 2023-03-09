@@ -1,8 +1,6 @@
 # Robert D. Gordon
 **Full Stack Web Developer**
 
-Portland, OR | GordonRobertD@gmail.com
-
 [rob-gordon.com](https://rob-gordon.com) | [LinkedIn](https://linkedin.com/in/robert-d-gordon/)
 
 Front End | Back End | And more...
